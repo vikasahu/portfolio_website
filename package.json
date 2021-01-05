@@ -6,6 +6,7 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
+    "generate": "nuxt generate",
     "export": "npm run build && next export"
   },
   "dependencies": {
